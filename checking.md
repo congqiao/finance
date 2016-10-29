@@ -13,10 +13,11 @@
 
 ## Online banks
 
-| Product | ATM Reimbursement |
-| --- | --- |
-| [Ally Interest Checking](https://www.ally.com/bank/interest-checking-account/) [[details]](https://www.ally.com/resources/pdf/bank/ally-bank-straight-talk-product-guide.pdf) | $10 |
-| [Bank of Internet Rewards Checking](https://www.bankofinternet.com/checking/rewards-checking) | unlimited |
-| [Bank of Internet Platinum Checking](https://www.bankofinternet.com/checking/platinum-checking) | $8 |
-| [Bank5 Connect](http://www.bank5connect.com/home/high-interest-checking) | $15 |
-| [Discover Cashback Checking](https://www.discover.com/online-banking/checking/) [[details]](https://www.discover.com/online-banking/assets/CheckingAccountGuide.pdf) | none |
+| Product | ATM Reimbursement | Highlights |
+| --- | --- | --- |
+| [Ally Interest Checking](https://www.ally.com/bank/interest-checking-account/) [[details]](https://www.ally.com/resources/pdf/bank/ally-bank-straight-talk-product-guide.pdf) | $10 | nice web and app |
+| [Bank of Internet Rewards Checking](https://www.bankofinternet.com/checking/rewards-checking) | unlimited | high interest, unlimited ATM reimbursement
+| [Bank of Internet Platinum Checking](https://www.bankofinternet.com/checking/platinum-checking) | $8 | high interest |
+| [Bank5 Connect](http://www.bank5connect.com/home/high-interest-checking) | $15 | high interest |
+| [Discover Cashback Checking](https://www.discover.com/online-banking/checking/) [[details]](https://www.discover.com/online-banking/assets/CheckingAccountGuide.pdf) | none | cashback |
+| [Simple](https://www.simple.com/) | none | nice web and app, tools for saving |
