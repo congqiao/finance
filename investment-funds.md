@@ -12,7 +12,7 @@
 | Schwab ETF | [SCHB](https://www.schwab.com/public/schwab/investing/investment_help/investment_research/etf_research/etfs.html?path=%2fProspect%2fResearch%2fetfs%2fsummary.asp%3fsymbol%3dSCHB): 3 | - |
 | SPDR | [SPTM](https://us.spdrs.com/en/etf/spdr-portfolio-total-stock-market-etf-SPTM): 3 | [CWI](https://us.spdrs.com/en/etf/spdr-msci-acwi-ex-us-etf-CWI): 30 |
 
-*Total Domestic Stock* = 80% *S&P 500* + 20% *Extended Market*
+*Total Domestic Stock* ≈ 80% *S&P 500* + 20% *Extended Market*
 
 | Family | S&P 500 | Extended Market |
 | --- | --- | --- |
@@ -24,7 +24,7 @@
 | Schwab ETF | - | - |
 | SPDR | [SPY](https://us.spdrs.com/en/etf/spdr-sp-500-etf-SPY): 9.45 | - |
 
-*Total Foreign Stock* = 80% *Developed Markets* + 20% *Emerging Markets*
+*Total Foreign Stock* ≈ 80% *Developed Markets* + 20% *Emerging Markets*
 
 | Family | Developed Markets | Emerging Markets |
 | --- | --- | --- |
