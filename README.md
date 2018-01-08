@@ -1,4 +1,4 @@
 # Wallet
 
-+ [Checking Accounts](checking.md)
++ [Checking Accounts](checking-accounts.md)
 + [Investment Funds](investment-funds.md)
