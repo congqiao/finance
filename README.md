@@ -1,4 +1,4 @@
-# Wallet
+# Finance
 
 + [Checking Accounts](checking-accounts.md)
 + [Credit](credit.md)
